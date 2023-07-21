@@ -1,0 +1,5 @@
+/.env
+sample.xlsx
+.idea
+.~lock.sample.xlsx#
+sample.csv
